@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Misharab15/Tenzies-Game/static/css/main.833a3089.css",
-    "main.js": "/Misharab15/Tenzies-Game/static/js/main.ca9817cc.js",
-    "static/js/453.39a1d5eb.chunk.js": "/Misharab15/Tenzies-Game/static/js/453.39a1d5eb.chunk.js",
-    "index.html": "/Misharab15/Tenzies-Game/index.html",
-    "main.833a3089.css.map": "/Misharab15/Tenzies-Game/static/css/main.833a3089.css.map",
-    "main.ca9817cc.js.map": "/Misharab15/Tenzies-Game/static/js/main.ca9817cc.js.map",
-    "453.39a1d5eb.chunk.js.map": "/Misharab15/Tenzies-Game/static/js/453.39a1d5eb.chunk.js.map"
+    "main.css": "/Tenzies-Game/static/css/main.833a3089.css",
+    "main.js": "/Tenzies-Game/static/js/main.1df119a4.js",
+    "static/js/453.39a1d5eb.chunk.js": "/Tenzies-Game/static/js/453.39a1d5eb.chunk.js",
+    "index.html": "/Tenzies-Game/index.html",
+    "main.833a3089.css.map": "/Tenzies-Game/static/css/main.833a3089.css.map",
+    "main.1df119a4.js.map": "/Tenzies-Game/static/js/main.1df119a4.js.map",
+    "453.39a1d5eb.chunk.js.map": "/Tenzies-Game/static/js/453.39a1d5eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.833a3089.css",
-    "static/js/main.ca9817cc.js"
+    "static/js/main.1df119a4.js"
   ]
 }
